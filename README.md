@@ -20,6 +20,6 @@ I am a curious and ambitious individual with a strong interest in technology. As
   
 ## Socials 🌐
 <a href="https://www.linkedin.com/in/guillermo-antonio-baltodano-vado-7aa66723a/"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" height="35"/>
-<a href="https://www.github.com/GABV2020" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /></a>
+<a href="https://www.github.com/GABV2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /></a>
 
   
